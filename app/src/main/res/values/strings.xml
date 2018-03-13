@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Questions-->
+    <string name="question_1">Q1. Is the sun a star or a planet?</string>
+    <string name="question_2">Q2. What planet is known as the red planet?</string>
+    <string name="question_3">Q3. What planet is famous for the beautiful rings that surround it?
+    </string>
+    <string name="question_4">Q4. Who was the first person to walk on the moon?</string>
+    <string name="question_5">Q5. What is the name of the force holding us to the Earth?</string>
+    <string name="question_6">Q6. Which of the following are planets?</string>
+
+    <string name="asteroid">Asteroid</string>
+    <string name="planet">Planet</string>
+    <string name="star">Star</string>
+    <string name="meteor">Meteor</string>
+
+    <string name="mercury">Mercury</string>
+    <string name="saturn">Saturn</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter"</string>
+
+    <string name="armstrong">Neil Armstrong</string>
+    <string name="sharma">Rakesh Sharma</string>
+    <string name="hillary">Edmund Hillary</string>
+    <string name="musk">Elon Musk</string>
+
+    <string name="gravity">Gravity</string>
+    <string name="electricity">Electricity</string>
+    <string name="friction">Friction</string>
+    <string name="tension">Tension</string>
+
+    <string name="sun">Sun</string>
+
+    <string name="enter_text">Type here</string>
+    <string name="score">Score</string>
+</resources>
