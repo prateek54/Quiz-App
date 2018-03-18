@@ -99,9 +99,7 @@ public class QuizAppActivityFragment extends Fragment {
 
     private void edittextQuestions() {
         String edittextQ3 = mEditTextQ3.getText().toString().toLowerCase();
-//        Log.d(LOG_TAG, "Question 3 " + edittextQ3);
         String edittextQ4 = mEditTextQ4.getText().toString().toLowerCase();
-//        Log.d(LOG_TAG, "Question 3 " + edittextQ4);
 
 
         if (!isEditTextQ3Scored) {
